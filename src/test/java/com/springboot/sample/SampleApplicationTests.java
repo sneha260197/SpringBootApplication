@@ -1,4 +1,4 @@
-package com.hackerrank.sample;
+package com.springboot.sample;
 
 import org.junit.Before;
 import org.junit.Test;
